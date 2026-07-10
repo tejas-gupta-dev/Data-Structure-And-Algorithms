@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
