@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
