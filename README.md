@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
