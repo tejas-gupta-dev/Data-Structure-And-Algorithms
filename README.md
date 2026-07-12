@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
