@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -81,10 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
