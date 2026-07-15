@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -66,9 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
