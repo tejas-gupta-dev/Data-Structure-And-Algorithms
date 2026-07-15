@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,17 +70,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
