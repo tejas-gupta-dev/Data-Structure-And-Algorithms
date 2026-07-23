@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0039-combination-sum) |
 | [0130-surrounded-regions](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
