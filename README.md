@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3731-find-missing-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +122,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0040-combination-sum-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
