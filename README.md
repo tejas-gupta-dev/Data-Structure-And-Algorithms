@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+| [3871-count-commas-in-range-ii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
