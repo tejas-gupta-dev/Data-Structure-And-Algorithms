@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
