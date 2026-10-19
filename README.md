@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Breadth-First Search
 |  |
 | ------- |
