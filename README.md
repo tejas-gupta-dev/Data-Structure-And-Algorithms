@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejas-gupta-dev/Data-Structure-And-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
